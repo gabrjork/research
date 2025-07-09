@@ -23,7 +23,7 @@ library(patchwork)
 
 choose.files()
 diretorio <- choose.dir()
-setwd("")
+setwd(diretorio)
 getwd()
 
 ###############========= Importando dados do BCB e consolidando base de dados inicial =========###############3
