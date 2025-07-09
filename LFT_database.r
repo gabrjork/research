@@ -21,7 +21,9 @@ library(patchwork)
 
 # Definindo o diretório de trabalho
 
-setwd("C:/Users/gabri/OneDrive/Área de Trabalho/Acadêmico/Monografia - LOCAL/Elaboração")
+choose.files()
+diretorio <- choose.dir()
+setwd("")
 getwd()
 
 ###############========= Importando dados do BCB e consolidando base de dados inicial =========###############3
