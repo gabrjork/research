@@ -2,5 +2,10 @@
 
 here i plan to make available the scripts I have used in my research to improve peer review and transparency. 
 
-due to the fact that i am still developing my R skills, i've conducted the the most complex econometric tasks in EViews, as available in the wf.
-(i should share the EViews files as well as soon as they're finished.) 
+the R tools were used to retrieve data, build and manipulate the database for the estimation of the VECM 
+and for some other individual figures exposed in my research. 
+
+due to the fact that i am still developing my R skills, i've conducted the the most complex econometric tasks in EViews.
+the wf1 file is available above. 
+
+as soon as it is published, i will share an access link to the university repository
