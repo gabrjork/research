@@ -9,6 +9,6 @@ due to the fact that i am still developing my R skills, i've conducted the most 
 the wf1 file is available above. 
 
 as an exception, the bank asset data was extracted from if.data manually and organized
-in a spredsheet with the help of a python script.
+in a spreadsheet with the help of a python script.
 
 as soon as it is published, i will share an access link to the university repository
