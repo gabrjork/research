@@ -8,7 +8,7 @@ Since I am still developing my R skills, I had significant help from AI in writi
 
 As an exception, the bank asset data was extracted manually from if.data and then organized in a spreadsheet using a Python script.
 
-Once the thesis is published, I will share a link to the university repository.
+Once the final research is published, I will share a link to the university repository.
 
 
 A quick guide: 
