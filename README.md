@@ -8,8 +8,8 @@ Since I am still developing my R skills, I had significant help from AI in writi
 
 As an exception, the bank asset data was extracted manually from if.data and then organized in a spreadsheet using a Python script.
 
-Once the final research is published, I will share a link to the university repository.
-
+This is the institutional repository page where the finished research is published:
+https://repositorio.ufu.br/handle/123456789/47161
 
 A quick guide: 
 1st -> create a folder and extract the "ativo_2011" zip file. Save the "ativobancario.py" file in there;
